@@ -1,0 +1,3 @@
+﻿city,dataset,published_roads,cache_or_subnetwork_roads,formal_path_roads,od_pairs,paths_per_od,test_dates,departure_times,decision_samples_per_configuration,sampling_note
+Beijing,Q-Traffic v2,45148,2693,2301,150,3,14,784,117600,"Repeated OD-departure samples over 14 observed dates; not 117,600 independent observations"
+Chengdu,Figshare v4,5943,2776,2523,150,3,14,350,52500,"Repeated OD-departure samples over 14 observed dates; not 52,500 independent observations"

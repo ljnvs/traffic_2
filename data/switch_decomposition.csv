@@ -1,0 +1,8 @@
+﻿city_model,branch,role,residual_support,decision_samples,route_changes,harmful_switches,beneficial_switches,net_harmful_switches,late_rate_change_pp,net_harmful_per_10000
+Beijing M1,"S6 formal B=500, seed2026",Formal,500 Monte Carlo draws,117600,3372,235,32,203,0.17261904761904645,17.261904761904763
+Beijing M1,"S6 formal B=500, seed2027",Formal,500 Monte Carlo draws,117600,3389,207,33,174,0.1479591836734684,14.795918367346939
+Beijing M1,"S6 formal B=500, seed2028",Formal,500 Monte Carlo draws,117600,3418,236,37,199,0.16921768707482965,16.921768707482993
+Beijing M1,"S6 formal B=500, three-seed pooled configurations",Formal aggregate,3 × 500 Monte Carlo-draw configurations,352800,10179,678,102,576,0.16326530612244897,16.3265306122449
+Beijing M1,"E168-CDF full-support, seed2026 predictor",Post-result supplemental,168 residual vectors fully enumerated; refitted empirical quantiles and C2 coefficient,117600,3197,193,38,155,0.13180272108843535,13.180272108843537
+Chengdu M1,Frozen formal run,Formal,15 within-window residual vectors from three residual days,52500,10026,785,373,412,0.7847619047619048,78.47619047619048
+Chengdu M2,Frozen formal run,Formal,15 within-window residual vectors from three residual days,52500,8728,756,273,483,0.9199999999999999,92.0
